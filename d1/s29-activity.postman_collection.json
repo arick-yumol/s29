@@ -31,7 +31,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"username\": \"Jack Doe\",\r\n    \"password\": \"jackdoe\"\r\n}",
+					"raw": "{\r\n    \"username\": \"Jake Doe\",\r\n    \"password\": \"jakedoe\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -90,7 +90,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"username\": \"Jack Doe\"\r\n}",
+					"raw": "{\r\n    \"username\": \"Jake Doe\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"

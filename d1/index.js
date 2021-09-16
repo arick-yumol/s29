@@ -11,7 +11,7 @@ const port = 3000;
 // Methods used from express.js are 'middleware'
 // Middleware is a software that provides services outside of what's offered by the operating system
 app.use(express.json());
-// allows your app to read data from forms
+// app.use(express.json()) will	allow your app to read data from forms
 // By default, information received from the url can only be received as a string or an array
 // By applying the option of "extended:true" this allows us to receive information in other data types such as an object/boolean, etc., which we will use throughout our application
 app.use(express.urlencoded({ extended: true }))
