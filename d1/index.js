@@ -109,7 +109,7 @@ app.delete('/delete-user', (req, res) => {		//not yet working
 			message = "User does not exist and cannot be deleted"
 		}
 	}
-	
+	res.send(message)
 })
 
 
